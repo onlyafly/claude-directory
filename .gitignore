@@ -2,3 +2,4 @@
 .claude/commands/opsx/
 .claude/settings.json
 .claude/settings.local.json
+.claude/launch.json
